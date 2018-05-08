@@ -1,4 +1,3 @@
-package com.sdg;
 	
 def notifyStarted() {
 emailext (
